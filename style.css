@@ -30,7 +30,7 @@ ul {
 
 
   header{
-      background-image: linear-gradient(rgba(0,0,0,0.5)) url("https://wallpaperaccess.com/full/1192271.jpg");
+      background-image: url("https://wallpaperaccess.com/full/1192271.jpg");
       background-position: center;
       background-size: cover;  
       height: 100vh;
