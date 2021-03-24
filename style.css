@@ -3,7 +3,7 @@
 
 
 }
-.ul {
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -11,11 +11,11 @@
     background-color: #1565c0;
   }
   
-  .li {
+  ul li {
     float: left;
   }
   
-  .li a {
+  ul li a {
     display: block;
     color: b3e5fc;
     text-align: center;
@@ -24,6 +24,14 @@
   }
   
   /* Change the link color to #111 (black) on hover */
-  .li a:hover {
+  ul li a:hover {
     background-color: #3f51b5 ;
   }
+
+  header{
+      background-image: url("https://i.pinimg.com/474x/ec/be/b1/ecbeb1f171d75a3a39f176a8d165bfcd--electric-blue-purple-butterfly.jpg");
+  
+background-position: center;
+background-size: cover;  
+height: 100vh;
+    }
