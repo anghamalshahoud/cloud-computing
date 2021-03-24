@@ -1,37 +1,48 @@
 .img {
     clip-path: circle();
+}
 
-
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Century Gothic;
 }
 ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #1565c0;
+    float: right;
   }
   
   ul li {
-    float: left;
+    display: inline-block
   }
   
   ul li a {
-    display: block;
-    color: b3e5fc;
-    text-align: center;
-    padding: 14px 16px;
+    color: #fff;
+    padding: 5px 20px;
+    border: 1px solid #fff;
     text-decoration: none;
+    transition: 0.6s ease;
   }
   
-  /* Change the link color to #111 (black) on hover */
   ul li a:hover {
-    background-color: #3f51b5 ;
+    background-color: #fff ;
+    color: #000;
+  }
+
+  ul li.active a {
+    background-color: #fff ;
+    color: #000;
   }
 
   header{
-      background-image: url("https://i.pinimg.com/474x/ec/be/b1/ecbeb1f171d75a3a39f176a8d165bfcd--electric-blue-purple-butterfly.jpg");
-  
-background-position: center;
-background-size: cover;  
-height: 100vh;
+      background-image: url("https://wallpaperaccess.com/full/1192271.jpg");
+      background-position: center;
+      background-size: cover;  
+      height: 100vh;
     }
+
+.logo img{
+    float: left;
+    width: 150px;
+    height: auto;
+}
