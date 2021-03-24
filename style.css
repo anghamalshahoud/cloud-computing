@@ -1,6 +1,3 @@
-.img {
-    clip-path: circle();
-}
 
 *{
     margin: 0;
@@ -41,8 +38,9 @@ ul {
       height: 100vh;
     }
 
-.logo img{
-    float: left;
-    width: 150px;
+.img{    
+
+    width: 400px;
     height: auto;
+    clip-path: circle();
 }
