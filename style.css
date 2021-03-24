@@ -19,7 +19,7 @@ ul {
     padding: 5px 20px;
     border: 1px solid transparent;
     text-decoration: none;
-    transition: 0.6s ease;
+    transition: 0.8s ease;
   }
   
   ul li a:hover {
@@ -32,15 +32,18 @@ ul {
   header{
       background-image: url("https://wallpaperaccess.com/full/1192271.jpg");
       background-position: center;
-      background-size: cover;  
+      background-size: fit;  
       height: 100vh;
     }
 
 .img{    
 
-    width: 400px;
+    float:left;
+    width: 300px;
     height: auto;
     clip-path: circle();
+    margin-top: 5%;
+
 }
 
 .main{
