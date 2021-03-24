@@ -7,6 +7,7 @@
 ul {
     list-style-type: none;
     float: right;
+    margin-top: 25px;
   }
   
   ul li {
@@ -16,7 +17,7 @@ ul {
   ul li a {
     color: #fff;
     padding: 5px 20px;
-    border: 1px solid #fff;
+    border: 1px solid transparent;
     text-decoration: none;
     transition: 0.6s ease;
   }
@@ -26,13 +27,10 @@ ul {
     color: #000;
   }
 
-  ul li.active a {
-    background-color: #fff ;
-    color: #000;
-  }
+
 
   header{
-      background-image: url("https://wallpaperaccess.com/full/1192271.jpg");
+      background-image: linear-gradient(rgba(0,0,0,0.5)) url("https://wallpaperaccess.com/full/1192271.jpg");
       background-position: center;
       background-size: cover;  
       height: 100vh;
@@ -43,4 +41,14 @@ ul {
     width: 400px;
     height: auto;
     clip-path: circle();
+}
+
+.main{
+    max-width: 1200px;
+    margin: auto;
+}
+
+.title{
+    position: absolute;
+    top:50%;
 }
