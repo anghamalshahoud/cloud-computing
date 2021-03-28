@@ -6,9 +6,8 @@
 }
 
 nav{
-  margin-top: 10px;
-  float: right;
-  list-style-type: none;
+  position: absolute;
+    top: 50px;
 
 
 }
