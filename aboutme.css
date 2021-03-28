@@ -40,6 +40,6 @@
       height: 100vh;
     }
 
-    .navbar .current{
-      background-color: gray;
-  }
+.navbar .current{
+    background-color: gray;
+}
