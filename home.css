@@ -39,3 +39,7 @@
       background-size:cover;  
       height: 100vh;
     }
+
+    .navbar .current{
+      background-color: white;
+  }
