@@ -5,7 +5,7 @@
     font-family: Century Gothic;
 }
 
-nav{
+.navbar{
   width: 100%;
   position: absolute;
   top: 10px;
@@ -40,14 +40,6 @@ nav{
       height: 100vh;
     }
 
-
-p{
-    text-align: center;
-    font-style: italic;
-    top: 25px;
-    
-    color: rgb(107, 12, 12);
-}
 
 .text{
   background-color: #4fc3f7;
