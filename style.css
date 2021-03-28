@@ -182,7 +182,7 @@ textarea {
 }
 
 input[type=checkbox] + label {
-  color: #ccc;
+  color: #000;
   font-style: italic;
 } 
 
