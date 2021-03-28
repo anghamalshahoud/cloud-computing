@@ -27,13 +27,17 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-  background-color: #45a049;
+  background-color: #2e22da;
 }
 
 .container {
   border-radius: 5px;
   background-color: #f2f2f2;
   padding: 20px;
+  background-image: url("https://wallpaperaccess.com/full/1192271.jpg");
+  background-position: center;
+  background-size:cover;  
+  height: 100vh;
 }
 </style>
 </head>
@@ -43,8 +47,8 @@ input[type=submit]:hover {
 
 <div class="container">
   <form action= "POST" data-netlify= "true">
-    <label for="fname">First Name</label>
-    <input type="text"  name="name" placeholder="Your name..">
+
+    <input type="text"  name="name" placeholder="Your name.." required>
 
     <input type= "email" name= "email" placeholder="Email" required>
 
