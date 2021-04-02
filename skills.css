@@ -40,6 +40,9 @@
 .navbar .current{
   background-color: #000;
 }
+body {
+    padding-top: 85px;
+}
 
 
 /* skills page styling starts here */
