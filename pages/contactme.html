@@ -19,7 +19,7 @@
 <body> 
 
 <div class="container">
-    <form netlify name="contact" action= "POST" data-netlify= "true">
+    <form name="contact" action= "POST" data-netlify= "true">
 	<div class="row">
 			<h1>contact me</h1>
 	</div>
@@ -47,6 +47,10 @@
 				<div class="styled-input wide">
 					<textarea id = " " type = "text" rows= "10" cols="30" name = "description" required></textarea>
 					<label>Describe Project... </label>
+				</div>
+				<div class="col-xs-12">
+				<div data-netlify-recaptcha="true">
+				</div>
 				</div>
 			</div>
 			<div class="col-xs-12">
