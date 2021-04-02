@@ -34,12 +34,12 @@ ul li a:hover {
 
 
 header{
-    background-image: url("https://wallpaperaccess.com/full/1192271.jpg");
-    background-position: center;
+  background-image: url("https://lh4.googleusercontent.com/proxy/UKEwh4mW7ZKvb89RaFwXtT0gharmzjwQ9mhCFnczFdpyIHcypGaGAP7mEfM2audLOxcihQVKA1vsfqpaaY9HlkTOmelF-6mtnhl2UBmtpWf-h4q7AgemGgrO1BbtpXa-ZIGite2KPC353XInsqWIuz9Q=s0-d");
+  background-position: center;
     background-size:cover;  
     height: 100vh;
   }
 
 .navbar .current{
-  background-color: gray;
+  background-color: #f06292;
 }
