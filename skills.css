@@ -62,7 +62,9 @@ body {
   color: white; /* White text color */
 }
 
-.html {width: 90%; background-color: #053606;} /* Green */
-.css {width: 80%; background-color: #052641;} /* Blue */
-.js {width: 65%; background-color: #420a06;} /* Red */
-.php {width: 60%; background-color: rgb(0, 0, 0);} /* Dark Grey */
+.html {width: 90%; background-color:  #b71c1c;} /* Green */
+.css {width: 80%; background-color:  #b71c1c;} /* Blue */
+.js {width: 65%; background-color:  #b71c1c;} /* Red */
+.php {width: 60%; background-color:  #b71c1c(0, 0, 0);} /* Dark Grey */
+.mysql{width: 80%; background-color: #b71c1c;}
+.Typescript{width: 80%; background-color: #b71c1c;}
