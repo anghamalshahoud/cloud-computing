@@ -58,8 +58,8 @@ body {
 
 .skills {
   text-align: left; /* Right-align text */
-  padding-top: 0.2%; /* Add top padding */
-  padding-bottom: 0.2%; /* Add bottom padding */
+  padding-top: 0.5rem; /* Add top padding */
+  padding-bottom: 0.5rem; /* Add bottom padding */
   color: white; /* White text color */
 }
 
