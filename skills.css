@@ -57,14 +57,18 @@ body {
 }
 
 .skills {
-  text-align: center; /* Right-align text */
+  text-align: right; /* Right-align text */
   height: 0.5rem!important;
-  color: white; /* White text color */
 }
 
-.html {width: 60%; background-color:  #b71c1c; margin-top: 5px; margin-bottom: 5px;} /* Green */
-.css {width: 80%; background-color:  #b71c1c; margin-top: 5px; margin-bottom: 5px;} /* Blue */
-.js {width: 40%; background-color:  #b71c1c; margin-top: 5px; margin-bottom: 5px;} /* Red */
-.php {width: 30%; background-color:  #b71c1c(0, 0, 0); margin-top: 5px; margin-bottom: 5px;} /* Dark Grey */
+.html {width: 60%; background-color:  #b71c1c; margin-top: 5px; margin-bottom: 5px;} 
+.css {width: 80%; background-color:  #b71c1c; margin-top: 5px; margin-bottom: 5px;} 
+.js {width: 40%; background-color:  #b71c1c; margin-top: 5px; margin-bottom: 5px;}  
+.php {width: 30%; background-color:  #b71c1c; margin-top: 5px; margin-bottom: 5px;} 
 .mysql{width: 80%; background-color: #b71c1c; margin-top: 5px; margin-bottom: 5px;}
 .Typescript{width: 80%; background-color: #b71c1c; margin-top: 5px; margin-bottom: 5px;}
+
+.font{
+  font-style:oblique;
+  font-weight: bold;
+}
