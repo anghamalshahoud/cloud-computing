@@ -57,9 +57,8 @@ body {
 }
 
 .skills {
-  text-align: left; /* Right-align text */
-  padding-top: 0.5rem !important; /* Add top padding */
-  padding-bottom: 0.5rem !important; /* Add bottom padding */
+  text-align: center; /* Right-align text */
+  height: 0.5rem!important;
   color: white; /* White text color */
 }
 
