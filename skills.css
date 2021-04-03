@@ -53,22 +53,22 @@ body {
 .container {
   width: 50%; /* Full width */
   background-color: #ddd; /* Grey background */
-  text-align: right; /* Right-align text */
+  text-align: left; /* Right-align text */
   margin-right: 10px;
 
 }
 
 .skills {
-  text-align: right; /* Right-align text */
+  text-align: left; /* Right-align text */
   height: 0.5rem!important;
 }
 
-.html {width: 60%; background-color:  #b71c1c; margin-top: 8px; margin-bottom: 8px; text-align: right;} 
-.css {width: 80%; background-color:  #b71c1c; margin-top: 8px; margin-bottom: 8px; text-align: right;} 
-.js {width: 40%; background-color:  #b71c1c; margin-top: 8px; margin-bottom: 8px; text-align: right;}  
-.php {width: 30%; background-color:  #b71c1c; margin-top: 8px; margin-bottom: 8px; text-align: right;} 
-.mysql{width: 80%; background-color: #b71c1c; margin-top: 8px; margin-bottom: 8px; text-align: right;}
-.Typescript{width: 80%; background-color: #b71c1c; margin-top: 8px; margin-bottom: 8px; text-align: right;}
+.html {width: 60%; background-color:  #b71c1c; margin-top: 8px; margin-bottom: 8px; text-align: left;} 
+.css {width: 80%; background-color:  #b71c1c; margin-top: 8px; margin-bottom: 8px; text-align: left;} 
+.js {width: 40%; background-color:  #b71c1c; margin-top: 8px; margin-bottom: 8px; text-align: left;}  
+.php {width: 30%; background-color:  #b71c1c; margin-top: 8px; margin-bottom: 8px; text-align: left;} 
+.mysql{width: 80%; background-color: #b71c1c; margin-top: 8px; margin-bottom: 8px; text-align: left;}
+.Typescript{width: 80%; background-color: #b71c1c; margin-top: 8px; margin-bottom: 8px; text-align: left;}
 
 .font{
   font-style:oblique;
