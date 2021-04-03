@@ -62,9 +62,9 @@ body {
   color: white; /* White text color */
 }
 
-.html {width: 90%; background-color:  #b71c1c;} /* Green */
-.css {width: 80%; background-color:  #b71c1c;} /* Blue */
-.js {width: 65%; background-color:  #b71c1c;} /* Red */
-.php {width: 60%; background-color:  #b71c1c(0, 0, 0);} /* Dark Grey */
-.mysql{width: 80%; background-color: #b71c1c;}
-.Typescript{width: 80%; background-color: #b71c1c;}
+.html {width: 60%; background-color:  #b71c1c; margin-top: 5px; margin-bottom: 5px;} /* Green */
+.css {width: 80%; background-color:  #b71c1c; margin-top: 5px; margin-bottom: 5px;} /* Blue */
+.js {width: 40%; background-color:  #b71c1c; margin-top: 5px; margin-bottom: 5px;} /* Red */
+.php {width: 30%; background-color:  #b71c1c(0, 0, 0); margin-top: 5px; margin-bottom: 5px;} /* Dark Grey */
+.mysql{width: 80%; background-color: #b71c1c; margin-top: 5px; margin-bottom: 5px;}
+.Typescript{width: 80%; background-color: #b71c1c; margin-top: 5px; margin-bottom: 5px;}
