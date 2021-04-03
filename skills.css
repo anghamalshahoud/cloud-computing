@@ -54,6 +54,9 @@ body {
 .container {
   width: 50%; /* Full width */
   background-color: #ddd; /* Grey background */
+  text-align: right; /* Right-align text */
+  margin-right: auto;
+
 }
 
 .skills {
