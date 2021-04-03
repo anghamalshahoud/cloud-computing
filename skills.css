@@ -58,12 +58,12 @@ body {
 
 .skills {
   text-align: left; /* Right-align text */
-  padding-top: 2%; /* Add top padding */
-  padding-bottom: 2%; /* Add bottom padding */
+  padding-top: 0.2%; /* Add top padding */
+  padding-bottom: 0.2%; /* Add bottom padding */
   color: white; /* White text color */
 }
 
-.html {width: 90%; background-color: #4CAF50;} /* Green */
-.css {width: 80%; background-color: #2196F3;} /* Blue */
-.js {width: 65%; background-color: #f44336;} /* Red */
-.php {width: 60%; background-color: #808080;} /* Dark Grey */
+.html {width: 90%; background-color: #053606;} /* Green */
+.css {width: 80%; background-color: #052641;} /* Blue */
+.js {width: 65%; background-color: #420a06;} /* Red */
+.php {width: 60%; background-color: rgb(0, 0, 0);} /* Dark Grey */
