@@ -64,12 +64,12 @@ body {
   height: 0.5rem!important;
 }
 
-.html {width: 60%; background-color:  #b71c1c; margin-top: 5px; margin-bottom: 5px;} 
-.css {width: 80%; background-color:  #b71c1c; margin-top: 5px; margin-bottom: 5px;} 
-.js {width: 40%; background-color:  #b71c1c; margin-top: 5px; margin-bottom: 5px;}  
-.php {width: 30%; background-color:  #b71c1c; margin-top: 5px; margin-bottom: 5px;} 
-.mysql{width: 80%; background-color: #b71c1c; margin-top: 5px; margin-bottom: 5px;}
-.Typescript{width: 80%; background-color: #b71c1c; margin-top: 5px; margin-bottom: 5px;}
+.html {width: 60%; background-color:  #b71c1c; margin-top: 5px; margin-bottom: 5px; text-align: right;} 
+.css {width: 80%; background-color:  #b71c1c; margin-top: 5px; margin-bottom: 5px; text-align: right;} 
+.js {width: 40%; background-color:  #b71c1c; margin-top: 5px; margin-bottom: 5px; text-align: right;}  
+.php {width: 30%; background-color:  #b71c1c; margin-top: 5px; margin-bottom: 5px; text-align: right;} 
+.mysql{width: 80%; background-color: #b71c1c; margin-top: 5px; margin-bottom: 5px; text-align: right;}
+.Typescript{width: 80%; background-color: #b71c1c; margin-top: 5px; margin-bottom: 5px; text-align: right;}
 
 .font{
   font-style:oblique;
