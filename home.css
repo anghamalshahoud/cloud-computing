@@ -46,27 +46,34 @@
       background-color: #000;
   }
 
-  h2 {
-    height: inherit;
-    background: inherit;
-    -webkit-background-clip: text;
-            background-clip: text;
-    color: transparent;
-    font: 100 35vmin/50vh cookie, cursive;
-    text-align: center;
-    filter: invert(1);
+  .load-btn{
 
+    text-align: center;
+    padding:10px;
+    display: block;
+    padding-top:40px ;
   }
 
-/* h2:a{
-  display: block;
-  background: #00A9D4;
-  color: #fff;
-  padding: 10px;
-  cursor: pointer;
-  text-decoration: none;
-  width: 100px;
-  text-align: center;
-  border-radius: 5px;
-  font-size: 10px;
-} */
+  h2 {
+    text-align: center;
+    padding:10px;
+    display: block;
+    padding-top:40px ;
+  }
+  
+  .load-btn{
+      
+   text-align: center;
+   padding:10px;
+   display: block;
+   padding-top:40px ;
+   background: #78909c;
+   color: #fff;
+   padding: 10px;
+   cursor: pointer;
+   text-decoration: none;
+   width: 100px;
+   border-radius: 5px;
+   font-size: 10px;
+   align-items: center;
+    }
