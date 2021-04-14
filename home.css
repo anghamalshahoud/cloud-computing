@@ -38,7 +38,7 @@
     overflow: hidden;
     height: 100vh;
     background-image: url("./media/main\ background.jpg") ;
-  background-size: cover 50%;
+  background-size: cover;
 
     }
 
