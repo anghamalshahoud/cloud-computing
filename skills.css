@@ -44,6 +44,7 @@ header{
     background-color: #000;
 }
 body {
+  background-image: url("./media/main\ background.jpg") ;
     padding-top: 85px;
 }
 
