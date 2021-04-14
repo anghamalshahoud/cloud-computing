@@ -45,14 +45,14 @@
       background-color: #000;
   }
 
-  body{
+  /* body{
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
     flex-direction: column;
-    font-family: sans-serif;
-    /* display: block;
+    font-family: sans-serif; 
+    display: block;
     background: #00A9D4;
     color: #fff;
     padding: 10px;
@@ -61,6 +61,6 @@
     width: 100px;
     text-align: center;
     border-radius: 5px;
-    font-size: 10px; */
-  }
+    font-size: 10px;
+  } */
 
