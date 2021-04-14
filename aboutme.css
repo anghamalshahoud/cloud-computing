@@ -43,3 +43,12 @@ header{
 .navbar .current{
   background-color: #000;
 }
+
+
+h1 {
+  text-align: center;
+  padding:10px;
+  display: block;
+  padding-top:40px ;
+  color: #fff;
+}
