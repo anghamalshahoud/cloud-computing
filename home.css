@@ -46,14 +46,19 @@
   }
 
   h2 {
-    display: flex;
+
+    color: white;
+    font: 900 35vmin/50vh cookie, cursive;
+    text-align: center;
+    mix-blend-mode: difference
+    /* display: flex;
     justify-content: center;
     align-items:center;
     height: 100vh;
     flex-direction: column;
     font-family: sans-serif; 
     color: #fff;
-    /* mix-blend-mode: difference; */
+    mix-blend-mode: difference; */
 
   }
 
