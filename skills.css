@@ -34,8 +34,11 @@
 
 
   header{
-    background-color: white
-    }
+    background-image: url("./media/main\ background.jpg") ;
+    background-position: center;
+    background-size:cover;  
+    height: 100vh;
+  }
 
 .navbar .current{
   background-color: gray;
