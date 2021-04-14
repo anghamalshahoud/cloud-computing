@@ -35,10 +35,11 @@
 
 
   header{
+    overflow: hidden;
+    height: 100vh;
     background-image: url("./media/main\ backgroundd.jpg") ;
-      background-position: center;
-      background-size:cover;  
-      height: 100vh;
+  background-size: cover 50%;
+
     }
 
     .navbar .current{
@@ -46,19 +47,14 @@
   }
 
   h2 {
-
-    color: white;
+    height: inherit;
+    background: inherit;
+    -webkit-background-clip: text;
+            background-clip: text;
+    color: transparent;
     font: 900 35vmin/50vh cookie, cursive;
     text-align: center;
-    mix-blend-mode: difference
-    /* display: flex;
-    justify-content: center;
-    align-items:center;
-    height: 100vh;
-    flex-direction: column;
-    font-family: sans-serif; 
-    color: #fff;
-    mix-blend-mode: difference; */
+    filter: invert(1);
 
   }
 
