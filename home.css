@@ -52,7 +52,7 @@
     -webkit-background-clip: text;
             background-clip: text;
     color: transparent;
-    font: 900 35vmin/50vh cookie, cursive;
+    font: 100 35vmin/50vh cookie, cursive;
     text-align: center;
     filter: invert(1);
 
