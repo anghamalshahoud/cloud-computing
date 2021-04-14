@@ -53,7 +53,7 @@
     flex-direction: column;
     font-family: sans-serif; 
     color: #fff;
-    mix-blend-mode: difference;
+    /* mix-blend-mode: difference; */
 
   }
 
