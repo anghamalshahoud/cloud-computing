@@ -38,7 +38,7 @@
 
   header{
     overflow: hidden;
-    height: 400px;
+    height: 100%;
     /* background-image: url("./media/main\ background.jpg") ; */
     background: linear-gradient(to bottom, #0033cc 7%, #66ffff 91%);
 
