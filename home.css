@@ -82,5 +82,7 @@
     
         border-radius: 8px;
         -webkit-box-reflect: below 20px;
+        height: 200px;
+        width: 50%;
       
     }
