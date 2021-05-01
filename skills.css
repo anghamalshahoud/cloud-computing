@@ -33,20 +33,20 @@ ul li a:hover {
 
 
 
-header{
+/* header{
   background: linear-gradient(to bottom, #0033cc 7%, #66ffff 91%);;
   background-position: center;
     background-size:cover;  
     height: 100vh;
-  }
+  } */
 
   .navbar .current{
     background-color: #000;
 }
-/* body {
+body {
   background: linear-gradient(to bottom, #0033cc 7%, #66ffff 91%);; */
-   /* padding-top: 85px;
-} */ */
+   padding-top: 85px;
+}
 
 
 /* skills page styling starts here */
