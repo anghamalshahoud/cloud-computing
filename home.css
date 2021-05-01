@@ -85,5 +85,12 @@
         -webkit-box-reflect: below 20px;
         height: 200px;
         width: 25%;
+        opacity: 0.5;
+
       
+    }
+
+    img:hover{
+      opacity: 1.0;
+
     }
