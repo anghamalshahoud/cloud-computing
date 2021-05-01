@@ -82,11 +82,12 @@
     img {
     
       border: 1px solid #ddd;
-      border-radius: 4px;
+      border-radius: 8px;
       padding: 5px;
-      width: 150px;
-    }
-        opacity: 0.5;
+      width: 350px;
+      opacity: 0.5;
+      transform: rotate3d(90deg);
+
 
       
     }
