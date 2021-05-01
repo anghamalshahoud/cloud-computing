@@ -43,10 +43,10 @@ header{
   .navbar .current{
     background-color: #000;
 }
-body {
-  background: linear-gradient(to bottom, #0033cc 7%, #66ffff 91%);;
-  padding-top: 85px;
-}
+/* body {
+  background: linear-gradient(to bottom, #0033cc 7%, #66ffff 91%);; */
+   /* padding-top: 85px;
+} */ */
 
 
 /* skills page styling starts here */
