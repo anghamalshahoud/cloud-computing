@@ -4,6 +4,11 @@
   font-family: Century Gothic;
 }
 
+html{
+  background: linear-gradient(to bottom, #0033cc 7%, #66ffff 91%);
+
+}
+
 .navbar{
 width: 100%;
 position: absolute;
@@ -44,7 +49,7 @@ ul li a:hover {
     background-color: #000;
 }
 body {
-  background: linear-gradient(to bottom, #0033cc 7%, #66ffff 91%);; */
+  /* background: linear-gradient(to bottom, #0033cc 7%, #66ffff 91%); */
    padding-top: 85px;
 }
 
