@@ -34,7 +34,7 @@ ul li a:hover {
 
 
 header{
-  background-image: url("./media/main\ background.jpg") ;
+  background: linear-gradient(to bottom, #0033cc 7%, #66ffff 91%);;
   background-position: center;
     background-size:cover;  
     height: 100vh;
@@ -60,7 +60,7 @@ header{
   }
   
   body {
-    background-image: url("./media/main\ background.jpg") ;
+    /* background: linear-gradient(to bottom, #0033cc 7%, #66ffff 91%);; */
       padding-top: 85px;
   }
   
