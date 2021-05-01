@@ -80,8 +80,7 @@
 
     img {
     
-        border: 1px solid white;
-        border-radius: 50%;
+        border-radius: 8px;
         -webkit-box-reflect: below 20px;
       
     }
