@@ -5,9 +5,9 @@
 }
 
 html{
-  background: linear-gradient(to bottom, #0033cc 7%, #66ffff 91%);
-  background-position: center;
-  background-size:cover;  
+  background-image: url(./backk.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
   height: 100vh;
 
 }
